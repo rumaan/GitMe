@@ -1,0 +1,2 @@
+webpackJsonp([0xd6f4e5b44bd3],{323:function(a,e){a.exports={data:{allMarkdownRemark:{edges:[{node:{frontmatter:{username:"haxzie",fullname:"Musthaq Ahamad"}}}]}},pathContext:{}}}});
+//# sourceMappingURL=path---submissions-37ff32dc7daa9b582295.js.map
